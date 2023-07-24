@@ -5,7 +5,7 @@ def escolhas(escolha):
     verdadeiro = list()
 
     final = list()
-    p = ['vertebrado, mamifero']
+    p = ['vertebrado, mamifero, onivoro']
     final.append(p)
     
     for x in resultado:
